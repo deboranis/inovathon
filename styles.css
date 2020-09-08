@@ -4,6 +4,10 @@ body {
 
 }
 
+a:hover {
+    font-weight: 700;
+}
+
 .titulo {
     font-family: 'Kufam', cursive !important;
     font-size: 5vw;
